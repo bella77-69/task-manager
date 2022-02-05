@@ -1,37 +1,20 @@
-![React task-manager](./image.jpg)
+![React task-manager](/image.jpg)
 
 ## Project Description
-A simple application where you can store a user’s first and last name in a MongoDB database.
-What is CRUD
-CRUD is an acronym for Create, Read, Update and Delete. CRUD is the operations that you use to:
-create data in a database
-read the data in a database
-update the data in a database
-delete the data in a database
+Build a CRUD application in React with Firebase Web SDK v9
 
 ## Getting Started
 
-Create a new folder 
+Set up Firestore.  Before we can start using the Firestore service, we need to first create a project and a database on Firebase.
 
-```shell
-npm init
-```
-This command creates a package.json file.
+Add a project
 
-install nodemon
-```shell
-npm install nodemon -D
-```
+Create a database
 
-update scripts section in package.json
-```shell
-"scripts": { 
-  "test": "echo \"Error: no test specified\" && exit 1", 
-  "start": "nodemon server" 
-},
-```
+Set up React.
 
-start our server with this command
+
+start our application with this command
 ```shell
 npm start
 ```
