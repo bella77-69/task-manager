@@ -7,7 +7,12 @@
 ![React task-manager](/image3.jpg)
 
 ## Project Description
-Build a CRUD application in React with Firebase Web SDK v9
+Build a CRUD application in React with Firebase Web SDK v9.  Focus is on implementing the CRUD functionalities, which are:
+
+-Adding a new tast to Firestore
+-Getting all tasks from Firestore
+-Updating a task
+-Deleting a task
 
 ## Getting Started
 
