@@ -1,10 +1,11 @@
-
 import './App.css';
+import Home from './components/TaskManager'
 
 function App() {
+
   return (
-    <div className="App">
-   
+    <div className='app'>
+      <Home />
     </div>
   );
 }
